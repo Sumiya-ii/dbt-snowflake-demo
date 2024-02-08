@@ -1,0 +1,1 @@
+select * from raw.credit_card.card_information
